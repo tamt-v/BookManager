@@ -79,7 +79,7 @@
         <section class="jumbotron text-center">
             <div class="container">
                 <h1 class="jumbotron-heading">BOOK STORE</h1>
-                <p class="lead text-muted mb-0">Chao mung ban den voi cua hang sach cua chung toi chuc ban mua sam that vui ve ...</p>
+                <p class="lead text-muted mb-0">Welcome to our bookstore wish you a happy shopping...</p>
             </div>
         </section>
         <div class="container">
